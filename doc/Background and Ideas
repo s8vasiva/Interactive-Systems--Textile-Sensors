@@ -1,0 +1,134 @@
+# Background
+
+The main goal of my chosen area of intelligent textiles – Highly stretchable, soft fabric multipupose pressure sensors with piezoresistive or capacitive properties(from ideas explored in the Idea Exploration section) would be to sense and detect amount of external force/strain applied on textiles which could be in the form of pressure, stretch, twist etc. In today’s world, fabric sensors have a vast variety of applications in all fields of sciences.
+
+The three main ingredients of fabric pressure sensor that contribute in sensing of physical force, strain, stretch or twist are
+
+  Conductive Fabric
+  Piezoresitivity or Capacitance
+  Instrument to measure output - Potentiometer or LEDs
+  
+  ## i) Conductive fabric [11]:
+
+Making of conductive fabric might look easier on the outside, but when it comes to intelligent textiles, the conductive fabric needs to possess a varied range of properties like stretchiness, softness, comfort, elasticity, washable and many more. To produce such a conductive fabric, the fabric has to undergo many processes [10] [11]. Some example processes are illustrated in Idea 3 of idea exploration section. Computing those weave themselves into the human world are called as ubiquitous computing. Likewise conductive material should be woven into fabric of different types in order to achieve seamless conductive fabric. The aforementioned statement is the base idea and an open area of research in textiles and also an area of improvement [6], as to how effective fabrics can be produced for conductivity purposes in intelligent textiles.
+
+## ii) Piezoresistance and Capacitance
+
+Piezoresistance and Capacitance are two base principles that contribute directly to the sensing of amount of external force applied. Piezoresistive and capacitive materials are embedded between the conductive fabric, so when external pressure/stretch
+
+Piezoresistance [3] [4] [5]
+
+Basic principle is that the change in resistance of the conductive material implies about the amount of external force/strain. The change in the position of electrons between the energy bands, which are triggered by external energy(twist, pressure, stretch etc) are responsible for conduction. The more the strain, more is the change in structure of electrons which is change in resistance, contributing to the conductivity. Production of Piezoresistive materials is also an open area of research and improvement [6].
+
+ Capacitance : Capacitance is the ability to store electric charges. When the top and bottom layer of the sensor which are the conductive layers, come in contact due to the thinning of the capacitive material (due to the applied stretch) embedded within the conductive layers, there is a change in electric charge which relates to the amount of external stretch applied. The aforementioned principle stands as a base for sensing of amount of stretch. Variations in making of capacitive sensors are also an area of improvement in stretch sensors [8].
+
+ Highly stretchable, soft fabric pressure sensors can be made from the very base by making conductive fabric and Piezoresistive or capacitive materials [8] and integrating them.
+
+## iii) Instrument to measure output
+
+LED’s, Potentiometers or Multimeters could be used to measure the change in resistance or capacitance in DIYS. In real time applications, mobile interfaces, serial displays etc are used in measuring the amount of external force.
+
+Existing DIYs and Products
+
+## Products [17]
+
+EeonTex Conductive Fabric - conductive fabric by Google
+Eeonyx EeonTex pressure sensing fabric (https://www.sparkfun.com/products/14111)
+Ripstop (https://www.sparkfun.com/products/10056)
+MedTex180 (https://www.sparkfun.com/products/10055)
+Eeonyx EeonTex conductive fabric (https://www.sparkfun.com/products/14110
+
+## DIYs- [7] [15] [16]
+
+Similarities of Project concept and referenced section: Underlying base concept- sensing is proportional to change in piezoresistivity/capacitance, Making of piezoresistive materials.
+
+Differences from referenced section: Making of elastic conductive fabric from scratch according to the flexibility/needs. Increasing Sensitivity. Sensing of both pressure and twist/stretch in the same project.
+
+# IDEAS EXPLORED
+
+ ## IDEA 1) What and why piezoresistivity in sensing?           
+
+
+Piezoresistivity is the change in resistance of a conducting material due to the external force/pressure applied [3]
+
+
+Piezoresitive coefficient= [(change in resistivity/original resitivity)]/strain [3]
+
+
+Mechanism of change in resistance: According to the band theory of semiconductors and conductors [4], the valence electrons reside in the valence band and charge carriers (positive (holes) and negative) reside in the conduction band (unoccupied for conduction band, only holes). When an external force is applied on the material, the electrons from the valence band acquires sufficient energy and is hit to the conduction band, thereby disturbing the pre-positioned structural spacing of electrons (which are responsible for resistance). Due to the electron shift in the bands, change in resistance occurs, contributing to conductivity.
+
+
+Why piezoresistivity? Because of its capability of directly representing physical properties of the human body [5].
+
+
+Then: Big mechanical sensors = Diaphragm + Potentiometers. Changes or fluctuations in diaphragm were captured by potentiometers as change in resistance. These sensors were too slow, not precise, most importantly in to Ubiquitous Computing, these sensors did not vanish into human world.
+
+
+Now [2]: Diaphragm is formed on piezoresistive textile material. When this material is flexed with pressure, there is a change in the structure of piezocrystals due to the movement of electrons resulting in resistance change which furthers a output signal. Piezoresistive sensors are known for their simplicity (which is a main consideration of Ubiquitous computing), robustness.  It has wide industrial applications as it can measure differential pressures and can operate in high temperatures [14].
+
+
+PS: Piezoresistive materials can be made through polymerization i.e by converting monomers to polymers by the process of in situ (polymer chains are formed in and around the fabric where piezoresistivity is needed) [6].
+
+
+This was inspired during a presentation talk in HCI lecture by a phd student from HCI lab at the end of the term.
+
+
+ 
+
+
+## Ø  IDEA 2) Making of soft fabric stretch sensors using silicone – Highly stretchable and Capacitive
+
+
+Most wearable sensors today are rigid and reduces the ease movements of users. Stretchability has been one major deficit of today’s wearables. Therefore an easy and quick methodology for making highly stretchable soft fabric sensors- highly sensitive and capacitive, which can be cut into desired shapes was developed by researchers at Wyss Institute and Harvard seas [8].
+
+
+Methodology: Silver coated fabric is cut in the center. 75 gms of silicone is poured and mixed with dye. The resulting liquid is spread as a thin sheet over a dielectric layer, following which it is cured in oven for 10-15 minutes. Unique dyed silicon is again spread over the cured silicone thin layer. One piece of initially cut fabric is now placed on one side of the silicone layer and cured again. A third and final layer of silicone is spread on the other side of the cured fabric. The second piece of fabric material is pasted now on the final silicon layer and cured. Now a soft and highly stretchable sensor is ready for use. This can be cut into desired shapes 
+
+
+Play Video
+.
+
+Working principle: When strain is applied by means of pulling the stretchable fabric on either ends, the silicone layers that is sandwiched between the silver coated conductive layers tend to become thinner, thereby there is a change in electric charge between the 2 silver electrodes. This change in capacitance directly corresponds to the amount of strain or stretch applied. In this way, the amount of pressure can be sensed capacitively [8][2].
+
+
+ 
+
+
+## Ø    IDEA 3)  Making washable and flexible conductive fabric [9] [10] [11]
+
+
+A basic underlying idea in making a low cost conductive fabric is to blend thin netted polyester with fine fibres of silver or copper[10]. There are several variations of conductive fibres which differ in their specifications. Conductive flexible fibres nowadays come as washable, easy to cut and sew materials. Few such varieties of fabric are[10]:
+
+
+·       Evolution ultra: Combines the lightweight benefits of semi-transparent polyester fabric mesh and pure silver coated copper threads woven throughout which is a conductive surface of 5 Ohm/square.
+
+
+·       Safety Silk: Blending real silk with ultra-fine, pure, real silver fibers creates a very unique silver fabric material. It is quite strong and very nice against the skin. It has very high surface conductivity.
+
+
+·       Silver jersey knit fabric: A human friendly fabric. It is an amazing fabric with a little bit of one-way stretch and many unique characteristics like washable, comfortable, and safe for skin contact. One side is almost all silver and has very high conductivity (~2 Ohm per sq). Other side is almost all cotton and has low conductivity, but when we press it, the conductivity increases. Knitted so there is some one-way stretch, cuts and sews like normal fabric.
+
+
+There are several other types of conductive fabrics and methods of producing them. More varieties @[10]
+
+
+ 
+
+
+## Ø  IDEA 4) Application of highly sensitive touch and pressure sensor in circuit designing  
+
+
+We all would have definitely had discomfort in making connections from device to device, while using softwares for designing circuits in first half of Exercise sheet 01. i.e. difficulties while trying to make the wiring straight, while trying to bend the connections at required angles. Instead of struggling with mouse pointers, why not superimpose [13] a sensitive and accurate pressure sensors glued to the tip of the required fingers? A standard tabletop software could be designed to react to the sensor on the finger. Features like zooming using fingers, selection, drawing connection could be integrated with the help of sensors. Thus transforming from the 2nd generation desktop computing to the 3rd generation ubiquitous computing. In this way, we could design circuits with ease and check correctness every now and then in the software. For such an application, the sensor technology should be very precise and act like pin point. This application could be taken as a motivation and worked as an area of improvement in the pin point sensors.
+
+PS: This application was imagined by me while doing the first half of the assignment – Designing of circuits and also inspired by the reactable synthesizer concept [12] for music generation.
+
+
+
+
+CONCRETE PROJECT IDEA
+
+1.       Making of conductive fabric material: Elastic net/fine elastic mesh is woven with conductive thread using needle.
+
+2.       Making of capacitive layers:  3 different colored silicone layers are cast on a dielectric medium upon each other and cured for 15 minutes each time
+
+3.       Integrating conductive fabric with conductive or resistive material: Conductive fabric from 1 forms the upper and lower layer while the capacitive layer from 2 or a Piezoresistive material forms the middle layer, which now is a soft stretchable capacitive/resistive sensor for pressure sensing.
