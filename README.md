@@ -24,18 +24,22 @@ Since we have not used controller for sensing, we have made the sensing area mor
 
 This sensor consists of 3 layers.
  	1.Upper and lower layers  are the conductive fabric.
-	2.The  resistive layer would be embedded between the conductive layers.
+	2.The middle resistive layer-velostat would be embedded between the conductive layers.
 	3.Copper tapes could be surfaced on conductive layers for high conductivity.
+	4.The above layers which forms our sensor is stitched/embedded within our cloth fabric, which we would wear.
   
 A multimeter would then be used to measure the amount of pressure imposed on the sensor and LED for output.
 The entire sensor setup is then be integrated to the 15*15cm wooden frame for demo purpose
 
 ### SENSOR MAKING
 
+#### The STORY BOARD of Sensor Making is under Sketches and Prototype folder
+
 Conductive fabric is either woven by hand or taken as ready made according to the level of elasticity required. 
 Since the sensor is a wearable sensor, the elasticity level is decided according to the commercial purpose and then the conductive stretchable fabric is made accordingly.
-Resistive material is woven with the help of conductive thread within these conductive fabrics to form the pressure sensor. Now a very basic sensor is ready.
-As specified in highlights, the projects' main target and improvement lies in improving the sensitivity of the sensing area. This is done by sewing silver/copper tapes/ conductive thread over the sensing area.
+Each of 2 pieces of conductive fabric (stretchable or non stretchable according to use and need) which is cut in shape of square with long leads (to connect to the LEDs) is sewed to each of cloth fabric pieces (which we wear).
+Resistive velostat material is woven with the help of conductive thread within these conductive fabrics to form the pressure sensor. The cloth fabric pieces are now stitched from outside. Now a very basic sensor is ready.
+As specified in highlights, the projects' main target and improvement lies in improving the sensitivity of the sensing area. This is done by sewing silver/copper tapes/ conductive thread over the sensing area. Before stitching the cloth fabrics together, the aforementioned step should be done and tested.
 This sensor can be interacted in 2 ways: i) By pressing ii) By twisting III) By stretching.
 Tests and Prototypes with images are available under the Prototype folder
 
