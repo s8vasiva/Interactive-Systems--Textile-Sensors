@@ -53,6 +53,7 @@ The more the strain, more is the change in structure of electrons which is chang
 ###### More research that was done and information about the Pressure Sensor like BACKGROUND, IDEA EXPLORATION, CONCRETE PROJECT IDEA, LIST OF MATERIALS, PROJECT PLAN AND TASKS (with ghantt chart) could be found under the doc folder.
 ###### Resources of RESEARCH and DIYs under the Reference folder
 ###### PROTOTYPES and IMAGES under Sketches and Prototype folder
+###### PROJECT CURRENT STATUS under Current_Status folder
 
 
 
